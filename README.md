@@ -1,16 +1,29 @@
-## Technologies Used
-  1. HTML
-  2. CSS
-  3. Javascript
-  4. Angular ``` v1.6.3 ```
 
-## How To Install App
+# Angular Starting Template
+
+---
+
+### Description:
+###### Angular front-end starting template.
+
+---
+
+### Technologies Used:
+  1. HTML5
+  2. CSS3
+  3. Javascript
+  4. Angular.js
+  5. ES6
+
+---
+
+### How To Install App:
   1. Fork or download zip file
   2. Open index.html file in browser
 
 ---
 
-## License
+## License:
 ##### Copyright 2017 Chris Stanton
 
 ###### Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
