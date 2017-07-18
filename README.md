@@ -6,7 +6,7 @@
 ### Description:
 ###### Angular Boilerplate front-end starting framework. Version does not include controllers or factories.
 
-<img src="./public/assets/images/screenshot.png" width="50%">
+<img src="./public/assets/images/screenshot.png" width="50%" border="3px solid black">
 
 ---
 
